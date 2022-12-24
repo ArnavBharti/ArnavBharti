@@ -1,5 +1,30 @@
 ### Hi there 👋
 
+
+
+## About Me
+```yaml
+name: Arnav Bharti
+location: Pilani, Rajasthan, India
+occupation: Student
+education: [
+  "Self-Taught in App Development"
+  "Birla Institute of Technology and Science, Pilani",
+  "Kothari International School, Noida"
+]
+technical_abilities: [
+  "Native Android (Kotlin)",
+  "Flutter",
+  "Python",
+  "HTML", 
+  "CSS", 
+  "JavaScript"
+]
+interests: [
+  "App Development"
+  "Front-End Development"
+]
+```
 <!--
 **ArnavBharti/ArnavBharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
