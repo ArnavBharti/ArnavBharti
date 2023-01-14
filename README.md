@@ -17,12 +17,18 @@ technical_abilities: [
   "Flutter",
   "Python",
   "HTML", 
-  "CSS", 
-  "JavaScript"
 ]
 interests: [
   "App Development"
   "Front-End Development"
+]
+reach_me: [
+  "All Links: www.linktr.ee/arnavbharti01"
+  "LinkedIn: www.linkedin.com/arnavbharti01"
+  "Twitter: www.twitter.com/arnavbharti01"
+  "Instagram: www.instagram.com/arnavbharti01"
+  "Blog: arnavbharti01.hashnode.dev"
+  "Facebook: www.facebook.com/arnavbharti01"
 ]
 ```
 <!--
