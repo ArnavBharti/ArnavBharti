@@ -14,6 +14,8 @@ I'm [Arnav Bharti](https://www.linkedin.com/in/arnavbharti01/).
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ArnavBharti&count_private=true&theme=tokyonight&showicons=true)]()
 
+---
+
 # Skills
 - App Development
   - Cross-Platform: Flutter & Dart
@@ -24,3 +26,9 @@ I'm [Arnav Bharti](https://www.linkedin.com/in/arnavbharti01/).
   - C/C++
   - Java
 
+---
+
+
+> कर्मण्येवाधिकारस्ते मा फलेषु कदाचन | 
+> मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||
+- _from The Bhagvad Gita_
