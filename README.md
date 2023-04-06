@@ -30,5 +30,11 @@ I'm [Arnav Bharti](https://www.linkedin.com/in/arnavbharti01/).
 
 
 > कर्मण्येवाधिकारस्ते मा फलेषु कदाचन | 
+>
 > मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||
-- _from The Bhagvad Gita_
+
+> You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. 
+> 
+> Never consider yourself to be the cause of the results of your activities, nor be attached to inaction.
+
+— _from The Bhagvad Gita_
