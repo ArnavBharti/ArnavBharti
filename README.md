@@ -19,7 +19,7 @@ I'm [Arnav Bharti](https://www.linkedin.com/in/arnavbharti01/).
 # Skills
 - App Development
   - Cross-Platform: Flutter & Dart
-  - Native Android: Kotlin & Jetpack Compose
+  - Native Android: Kotlin
 - Git
 - Other Languages
   - Python
