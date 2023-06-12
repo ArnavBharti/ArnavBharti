@@ -12,8 +12,6 @@ I'm [Arnav Bharti](https://www.linkedin.com/in/arnavbharti01/).
   - Department of Visual Media (DVM) @dvm-bitspilani
   - BITS-ACM
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ArnavBharti&count_private=true&theme=tokyonight&showicons=true)]()
-
 ---
 
 # Skills
