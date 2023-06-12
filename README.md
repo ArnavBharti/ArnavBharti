@@ -21,8 +21,7 @@ I'm [Arnav Bharti](https://www.linkedin.com/in/arnavbharti01/).
 - Git
 - Other Languages
   - Python
-  - C/C++
-  - Java
+  - C
 
 ---
 
