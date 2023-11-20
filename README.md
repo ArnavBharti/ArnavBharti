@@ -3,6 +3,7 @@
 I'm [Arnav Bharti](https://www.linkedin.com/in/arnavbharti01/).
 
 # Facts About Me
+- 📱 Currently Exploring: React Native
 - 🌐 Location: Pilani, Rajasthan, India 🇮🇳
 - 💼 Occupation: Student by day, Developer by night
 - 🏫 Education:
