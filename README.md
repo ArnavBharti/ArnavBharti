@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm [Arnav Bharti](https://www.linkedin.com/in/arnavbharti01/).
+I am Arnav. See my [my website](https://arnavbharti.com) for more info.
